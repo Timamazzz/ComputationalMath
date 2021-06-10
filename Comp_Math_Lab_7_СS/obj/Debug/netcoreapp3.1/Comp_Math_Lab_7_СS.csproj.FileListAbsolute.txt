@@ -1,0 +1,13 @@
+C:\Users\Artem-HOME\source\repos\Comp_Math_Lab_7_СS\bin\Debug\netcoreapp3.1\Comp_Math_Lab_7_СS.exe
+C:\Users\Artem-HOME\source\repos\Comp_Math_Lab_7_СS\bin\Debug\netcoreapp3.1\Comp_Math_Lab_7_СS.deps.json
+C:\Users\Artem-HOME\source\repos\Comp_Math_Lab_7_СS\bin\Debug\netcoreapp3.1\Comp_Math_Lab_7_СS.runtimeconfig.json
+C:\Users\Artem-HOME\source\repos\Comp_Math_Lab_7_СS\bin\Debug\netcoreapp3.1\Comp_Math_Lab_7_СS.runtimeconfig.dev.json
+C:\Users\Artem-HOME\source\repos\Comp_Math_Lab_7_СS\bin\Debug\netcoreapp3.1\Comp_Math_Lab_7_СS.dll
+C:\Users\Artem-HOME\source\repos\Comp_Math_Lab_7_СS\bin\Debug\netcoreapp3.1\Comp_Math_Lab_7_СS.pdb
+C:\Users\Artem-HOME\source\repos\Comp_Math_Lab_7_СS\obj\Debug\netcoreapp3.1\Comp_Math_Lab_7_СS.csprojAssemblyReference.cache
+C:\Users\Artem-HOME\source\repos\Comp_Math_Lab_7_СS\obj\Debug\netcoreapp3.1\Comp_Math_Lab_7_СS.AssemblyInfoInputs.cache
+C:\Users\Artem-HOME\source\repos\Comp_Math_Lab_7_СS\obj\Debug\netcoreapp3.1\Comp_Math_Lab_7_СS.AssemblyInfo.cs
+C:\Users\Artem-HOME\source\repos\Comp_Math_Lab_7_СS\obj\Debug\netcoreapp3.1\Comp_Math_Lab_7_СS.csproj.CoreCompileInputs.cache
+C:\Users\Artem-HOME\source\repos\Comp_Math_Lab_7_СS\obj\Debug\netcoreapp3.1\Comp_Math_Lab_7_СS.dll
+C:\Users\Artem-HOME\source\repos\Comp_Math_Lab_7_СS\obj\Debug\netcoreapp3.1\Comp_Math_Lab_7_СS.pdb
+C:\Users\Artem-HOME\source\repos\Comp_Math_Lab_7_СS\obj\Debug\netcoreapp3.1\Comp_Math_Lab_7_СS.genruntimeconfig.cache

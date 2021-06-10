@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Comp_Math_Lab_7_СS/1.0.0": {
+        "runtime": {
+          "Comp_Math_Lab_7_СS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Comp_Math_Lab_7_СS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
