@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Artem-HOME\source\repos\Comp_Math_Lab_3\Source.cpp(26,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Artem-HOME\source\repos\Comp_Math_Lab_3\Source.cpp(38,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Artem-HOME\source\repos\Comp_Math_Lab_3\Source.cpp(39,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Artem-HOME\source\repos\Comp_Math_Lab_3\Source.cpp(18,15): warning C4101: k: неиспользованная локальная переменная
+C:\Users\Artem-HOME\source\repos\Comp_Math_Lab_3\Source.cpp(50,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Comp_Math_Lab_3.vcxproj -> C:\Users\Artem-HOME\source\repos\Comp_Math_Lab_3\Debug\Comp_Math_Lab_3.exe
