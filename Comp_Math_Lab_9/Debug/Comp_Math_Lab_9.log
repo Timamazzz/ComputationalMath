@@ -1,0 +1,3 @@
+﻿  Comp_Math_Lab_9.cpp
+C:\Users\Artem-HOME\source\repos\Comp_Math_Lab_9\Comp_Math_Lab_9.cpp(46,20): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Comp_Math_Lab_9.vcxproj -> C:\Users\Artem-HOME\source\repos\Comp_Math_Lab_9\Debug\Comp_Math_Lab_9.exe

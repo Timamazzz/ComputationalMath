@@ -1,0 +1,2 @@
+C:\Users\Artem-HOME\source\repos\Comp_Math_Lab_8.2\Debug\Comp_Math_Lab_8.2.exe
+C:\Users\Artem-HOME\source\repos\Comp_Math_Lab_8.2\Debug\Comp_Math_Lab_8.2.pdb
